@@ -31,4 +31,3 @@ int main()
 	cout << "Missing number:" << search(ar, size);
 }
 
-// This code is contributed by Pushpesh Raj
